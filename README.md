@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **anything I can help with. I love open-source and would be glad to contribute.**
 
-- 📫 How to reach me **manyujob@gmail.com**
+- 📫 How to reach me: **manyujob@gmail.com**
 
 - 📄 Know about my experiences [https://cdn.discordapp.com/attachments/625998454610460672/836118056471101480/Emanuele_Vella_CV.pdf](https://cdn.discordapp.com/attachments/625998454610460672/836118056471101480/Emanuele_Vella_CV.pdf)
 
-- ⚡ Fun fact **I always put potatoes on my pizza.**
+- ⚡ Fun fact: **I always put potatoes on my pizza.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
