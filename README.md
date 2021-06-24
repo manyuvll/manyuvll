@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **manyujob@gmail.com**
 
-- 📄 Know about my experiences [thanks to my cv!](https://cdn.discordapp.com/attachments/625998454610460672/836118056471101480/Emanuele_Vella_CV.pdf)
+- 📄 Know about my experiences [thanks to my cv!](https://cdn.discordapp.com/attachments/625998454610460672/857640560369205278/Emanuele-vella-CV-github.pdf)
 
 - ⚡ Fun fact: **I always put potatoes on my pizza.**
 
