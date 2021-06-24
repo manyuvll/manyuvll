@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/manyu_vll" target="blank"><img src="https://img.shields.io/twitter/follow/manyu_vll?logo=twitter&style=for-the-badge" alt="manyu_vll" /></a> </p>
 
-- 🔭 I’m currently working on [Windows 95 Portfolio](https://github.com/manyuvll/windows95Portfolio)
+- 🔭 I’m currently working on [Windows 95 Portfolio](https://github.com/manyuvll/windows95Portfolio), [Stonks](https://github.com/manyuvll/Stonks)
 
 - 🌱 I’m currently learning **Redux.Next/Tailwind.**
 
