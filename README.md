@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Windows 95 Portfolio](https://github.com/manyuvll/windows95Portfolio), [Stonks](https://github.com/manyuvll/Stonks)
 
-- 🌱 I’m currently learning **Redux.Next/Tailwind.**
+- 🌱 I’m currently learning **Redux/Next/Tailwind.**
 
 - 💬 Ask me about **anything I can help with. I love open-source and would be glad to contribute.**
 
