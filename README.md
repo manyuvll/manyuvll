@@ -7,7 +7,7 @@
 
 - 🔭 Past work on this repo [Windows 95 Portfolio](https://github.com/manyuvll/windows95Portfolio), [Task-Vault](https://github.com/manyuvll/task-vault)
 
-- 🌱 I’m currently learning **SWIFT-UI**
+- 🌱 I’m currently learning **SWIFT-UI** and **Unreal Engine 5**
 
 - 💬 Ask me about **anything I can help with. I love open-source and would be glad to contribute.**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [thanks to my cv!](https://cdn.discordapp.com/attachments/1096260368176775218/1154838564283105371/github-resume-emanuele-vella.pdf)
 
-- ⚡ Fun fact: **I always put potatoes on my pizza.**
+- ⚡ Fun fact: **No fun allowed.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
