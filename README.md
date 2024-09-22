@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Emanuele</h1>
-<h3 align="center">A passionate software engineer from Italy living in Tokyo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manyuvll&label=Profile%20views&color=0e75b6&style=flat" alt="manyuvll" /> </p>
 
