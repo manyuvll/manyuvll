@@ -7,7 +7,7 @@
 
 - 🔭 Past work on this repo [Windows 95 Portfolio](https://github.com/manyuvll/windows95Portfolio), [Task-Vault](https://github.com/manyuvll/task-vault)
 
-- 🌱 I’m currently learning **SWIFT-UI** and **Unreal Engine 5**
+- 🌱 I’m currently learning **Unity**
 
 - 💬 Ask me about **anything I can help with. I love open-source and would be glad to contribute.**
 
