@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manyuvll&label=Profile%20views&color=0e75b6&style=flat" alt="manyuvll" /> </p>
 
-<p align="left"> <a href="https://twitter.com/manyu_vll" target="blank"><img src="https://img.shields.io/twitter/follow/manyu_vll?logo=twitter&style=for-the-badge" alt="manyu_vll" /></a> </p>
-
 - 🔭 Past work on this repo [Windows 95 Portfolio](https://github.com/manyuvll/windows95Portfolio), [Task-Vault](https://github.com/manyuvll/task-vault)
 
 - 🌱 I’m currently learning **Unity**
