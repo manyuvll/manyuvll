@@ -13,14 +13,4 @@
 
 - 📫 How to reach me: **manyujob@gmail.com**
 
-- 📄 Know about my experiences [thanks to my cv!](https://cdn.discordapp.com/attachments/1096260368176775218/1154838564283105371/github-resume-emanuele-vella.pdf)
-
-- ⚡ Fun fact: **No fun allowed.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emanuele-vella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/4a1846e7df532503c68c43227031be90143e2184/src/images/icons/Social/linked-in-alt.svg" alt="emanuele-vella" height="30" width="40" /></a>
-</p>
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manyuvll&show_icons=true&locale=en&layout=compact" alt="manyuvll" /></p>
